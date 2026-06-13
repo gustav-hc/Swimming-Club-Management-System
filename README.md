@@ -70,12 +70,24 @@ My responsibilities included:
 * Improved validation and error handling
 
 ## Screenshots
-<img width="266" height="124" alt="Skærmbillede 2026-06-13 kl  14 29 47" src="https://github.com/user-attachments/assets/23013cbc-aa28-4a8b-b57f-63fb4c8b9015" />
 
-<img width="195" height="136" alt="Skærmbillede 2026-06-13 kl  14 29 21" src="https://github.com/user-attachments/assets/0e790e38-3312-43f8-9235-9c77f7e8d78c" />
+### Main Menu
 
-<img width="320" height="212" alt="Skærmbillede 2026-06-13 kl  14 29 13" src="https://github.com/user-attachments/assets/13d438df-0a77-4dcf-a5db-700c35764c4e" />
+<img width="112" height="105" alt="Skærmbillede 2026-06-13 kl  15 05 14" src="https://github.com/user-attachments/assets/d32942a8-f0cc-43ec-8b33-dfec07d130c3" />
 
-<img width="285" height="241" alt="Skærmbillede 2026-06-13 kl  14 29 05" src="https://github.com/user-attachments/assets/97852f68-e2fc-4bab-aa87-c3ac366a8998" />
+### Chairman Menu
+
+<img width="214" height="115" alt="Skærmbillede 2026-06-13 kl  15 05 27" src="https://github.com/user-attachments/assets/629036d3-187c-439c-97d1-58a6769b43e3" />
+
+### Treasurer Menu
+
+<img width="268" height="100" alt="Skærmbillede 2026-06-13 kl  15 05 53" src="https://github.com/user-attachments/assets/5090d7da-a5e2-49bb-bbad-02a18a153294" />
+
+### Coach Menu
+
+<img width="314" height="140" alt="Skærmbillede 2026-06-13 kl  15 06 08" src="https://github.com/user-attachments/assets/b14c99cc-7fae-4c3e-82d8-0c2fc70c2ca3" />
+
+
+
 
 
